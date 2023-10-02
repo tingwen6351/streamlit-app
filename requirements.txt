@@ -1,4 +1,6 @@
 streamlit
 pandas
 numpy
-bokeh
+bokeh.plotting
+bokeh.models
+
