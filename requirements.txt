@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-bokeh.plotting
-bokeh.models
+bokeh==2.4.3
 
